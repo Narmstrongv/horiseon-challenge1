@@ -1,5 +1,10 @@
 # Code Refactor Starter Code
 
+Note to self: Repository contains quality README file with description, screenshot, and link to deployed application.
+
+
+Notes: There was an issue setting up the repository that was solved with help from a tutor. Hence several commits with the name 'test push #'. And the projects "Develop" folder was deleted. Before that there were several changes made to the challenge code. All of which are documented below.
+
 Index changes:
 Title in head was changed to reflect clients company
 Fixed broken link for 'search-engine-optimizaton' had a class when it needed id

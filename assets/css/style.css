@@ -64,6 +64,13 @@ p {
 }
 /*HERO END*/
 
+/*CONTENT STYLING START*/
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -73,13 +80,9 @@ p {
     float: right;
     margin-left: 25px;
 }
+/*CONTENT STYLING END*/
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
+/*ASIDE STYLING START*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
